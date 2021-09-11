@@ -26,7 +26,7 @@ Block Explorer: https://explorer.zenithchain.co/
 
 
 
-Block Explorer URL:Coming Soon
+
 The above fields should be fine for most purposes, although we'd recommend changing
 the `nonce` to some random value so you prevent unknown remote nodes from being able
 to connect to you. If you'd like to pre-fund some accounts for easier testing, create
