@@ -13,16 +13,17 @@ EVM-compatible: Supports all the existing Ethereum tooling along with faster fin
 Interoperable: Comes with efficient native dual chain communication; Optimized for scaling high-performance dApps that require fast and smooth user experience.
 Distributed with on-chain governance: Proof of Staked Authority brings in decentralization and community participants. As the native token, ZC will serve as both the gas of smart contract execution and tokens for staking.
 
+Please add the Zenith Chain Mainnet Network details to your Metamask Wallet.
+
 Network Name: Zenith Chain
 
-New RPC URL:https://dataserver-1.zenithchain.co/
+New RPC URL: https://dataserver-1.zenithchain.co/
 
-ChianId: 79
+Chain ID: 79
 
-Symbol: Zenith
+Symbol: ZENITH
 
-Block Explorer: https://explorer.zenithchain.co/
-
+Block Explorer:  https://explorer.zenithchain.co/
 
 
 
