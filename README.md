@@ -15,16 +15,31 @@ Distributed with on-chain governance: Proof of Staked Authority brings in decent
 
 Please add the Zenith Chain Mainnet Network details to your Metamask Wallet.
 
-Network Name: Zenith Chain
+Network Name: Zenith Chain Mainnet
 
-New RPC URL: https://dataserver-1.zenithchain.co/
+New RPC URL’s : 
+
+https://dataserver-1.zenithchain.co/
+
+https://dataserver-us-1.zenithchain.co
+
+https://dataserver-asia-1.zenithchain.co
+
 
 Chain ID: 79
 
+
 Symbol: ZENITH
 
-Block Explorer:  https://explorer.zenithchain.co/
+Block Explorer: https://explorer.zenithchain.co/
 
+
+
+Zenith Token across chain
+
+BSC Contract Address: 0x57C81885FaAd67fC4dE892102f6FEAd3b9215f6b
+
+ERC Contract Address: 0x0343131c0257ac21ea5a8dc83841f071efd9285c
 
 
 
