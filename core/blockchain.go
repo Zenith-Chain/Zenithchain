@@ -48,7 +48,7 @@ import (
 )
 
 var (
-	headBlockGauge     = metrics.NewRegisteredGauge("chain/head/block", nil)
+	headBl ockGauge     = metrics.NewRegisteredGauge("chain/head/block", nil)
 	headHeaderGauge    = metrics.NewRegisteredGauge("chain/head/header", nil)
 	headFastBlockGauge = metrics.NewRegisteredGauge("chain/head/receipt", nil)
 
